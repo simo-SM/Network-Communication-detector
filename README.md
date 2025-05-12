@@ -45,7 +45,9 @@ If you choose to clear the log, the script will delete the current day's log fil
 ### Prerequisites
 Make sure you have Python installed on your system. You can download Python from [here](https://www.python.org/downloads/).
 ### Key Features:
-![Terminal Output](path/to/your/image.png)
+**photo**
+![codeNetwork-2](https://github.com/user-attachments/assets/e251c9fd-3037-47c1-9d27-302afd84f146)
+
 
 
 ### Steps to install:
