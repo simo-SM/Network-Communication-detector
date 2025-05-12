@@ -33,14 +33,6 @@ This script is designed to **detect potential cryptocurrency mining activity** b
 If you choose to clear the log, the script will delete the current day's log file (if it exists).
 
 
-## Table of Contents
-- [Installation](#installation)
-- [Usage](#usage)
-- [Features](#features)
-- [Contributing](#contributing)
-- [License](#license)
-
-## Installation
 
 ### Prerequisites
 Make sure you have Python installed on your system. You can download Python from [here](https://www.python.org/downloads/).
