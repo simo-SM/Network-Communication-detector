@@ -44,18 +44,10 @@ If you choose to clear the log, the script will delete the current day's log fil
 
 ### Prerequisites
 Make sure you have Python installed on your system. You can download Python from [here](https://www.python.org/downloads/).
-### Key Features:```
-   ___ _      _        _     _                 
-  / __| |_  _| |_ __ _| |__ | |__ _ _ _  __ _   
- | (__| | || |  _/ _` | '_ \| / _` | ' \/ _` |  
-  \___|_|\_,_|\__\__,_|_.__/|_\__,_|_||_\__, |  
-                                        |___/    
+### Key Features:
+![Terminal Output](path/to/your/image.png)
 
-Process              Local Address               Remote Address        
----------------------------------------------------------------
-python.exe           127.0.0.1:5555             192.168.1.10:3333      
-...
-```
+
 ### Steps to install:
 1. Clone the repository:
    ```bash
